@@ -1,5 +1,5 @@
 # Awesome Open University Projects
-A collection of awesome Open Univerity projects by students for students (but not limited to them) 🤓🎓 Here you can find open source and open data related to tools, helpful ressources and projects of [The Open University](https://www.open.ac.uk/).
+A collection of awesome Open Univerity projects by students for students (but not limited to them) 🤓🎓 Here you can find open source and open data related to tools, helpful resources and projects of [The Open University](https://www.open.ac.uk/).
 
 Feel free to participate over pull requests.
 
