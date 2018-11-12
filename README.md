@@ -1,5 +1,5 @@
 # Awesome Open University Projects
-A collection of awesome Open Univerity projects by students for students (but not limited to them) 🤓🎓 Here you can find open source and open data related to tools, helpful ressources and projects of [The Open University](https://www.open.ac.uk/).
+A collection of awesome Open Univerity projects by students for students (but not limited to them) 🤓🎓 Here you can find open source and open data related to tools, helpful resources and projects of [The Open University](https://www.open.ac.uk/).
 
 Feel free to participate over pull requests.
 
@@ -29,7 +29,9 @@ The Kali image used by the M812 (Digital Forensics) module.
 - [TM470 project by Ashley Lester](https://github.com/ashleylester/tm470) The Computing and IT Project
 - [TM470 project by Kevin Peat](https://github.com/devonshire/ou-tm470) The Computing and IT Project
 
-
+## Personal projects by OU students (not necessarily study-related)
+- [OU Module Codes bot](https://gitlab.com/jkozera/oumodulesbot) for the [STEM Club's Discord server](http://www.oucr.club)
+- [Zeal documentation browser](https://zealdocs.org/) — in development since early 2013 by [@jkozera](https://github.com/zealdocs/zeal/graphs/contributors)
 
 
 ## By The Open University
