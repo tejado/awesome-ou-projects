@@ -29,7 +29,8 @@ The Kali image used by the M812 (Digital Forensics) module.
 - [TM470 project by Ashley Lester](https://github.com/ashleylester/tm470) The Computing and IT Project
 - [TM470 project by Kevin Peat](https://github.com/devonshire/ou-tm470) The Computing and IT Project
 
-
+## Personal projects by OU students (not necessarily study-related)
+- [OU Module Codes bot](https://gitlab.com/jkozera/oumodulesbot) for the [STEM Club's Discord server](http://www.oucr.club)
 
 
 ## By The Open University
