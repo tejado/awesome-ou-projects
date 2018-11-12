@@ -21,7 +21,6 @@ The Kali image used by the M812 (Digital Forensics) module.
 
 ## Study Exams / Projects
 - [Open-University-PG-SWEng](https://github.com/Open-University-PG-SWEng/) Module M814 - Software Engineering github repositories
-- [TM352 exam project by Darren Tynan](https://github.com/DarrenTynan/open_university_tm352_final) Android app in HTML5 and JavaScript, using the OU REST server. 
 - [TM470 project by Matthew Dutton](https://github.com/mmd93ee/ou-tm470/) The Computing and IT Project
 - [TM470 project by J Tesznar](https://github.com/jo-tez/tm470) The Computing and IT Project
 - [TM470 project by PickleChops](https://github.com/PickleChops/autoq) The Computing and IT Project
@@ -29,7 +28,7 @@ The Kali image used by the M812 (Digital Forensics) module.
 - [TM470 project by Yasser Saleemi](https://github.com/yasn77/whitepy) The Computing and IT Project
 - [TM470 project by Ashley Lester](https://github.com/ashleylester/tm470) The Computing and IT Project
 - [TM470 project by Kevin Peat](https://github.com/devonshire/ou-tm470) The Computing and IT Project
-- [SXP390 project by Peter Swords](https://github.com/peterswords/S390) SXP390 Quasar project
+
 
 
 
