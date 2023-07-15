@@ -4,7 +4,6 @@ A collection of awesome Open Univerity projects by students for students (but no
 Feel free to participate over pull requests.
 
 ## Study Tools
-- [oudashboard](https://gitlab.com/jkozera/oudashboard) OU TMA/iCMA calendar
 - [ou-embed-php](https://github.com/IET-OU/ou-embed-php) Wrapper round oEmbed-powered 'simexis/embed' library, with some OU-specific goodness
 - [OUXMLConverter](https://github.com/chaotic-kingdoms/OUXMLConverter) Standalone script to process courses in OUXML (Open University XML) format
 
@@ -30,7 +29,7 @@ The Kali image used by the M812 (Digital Forensics) module.
 - [TM470 project by Kevin Peat](https://github.com/devonshire/ou-tm470) The Computing and IT Project
 
 ## Personal projects by OU students (not necessarily study-related)
-- [OU Module Codes bot](https://gitlab.com/jkozera/oumodulesbot) for the [STEM Club's Discord server](http://www.oucr.club)
+- [OU Module Codes bot](https://modules-bot.ou-stem.club/) for the [STEM Club's Discord server](http://www.oucr.club)
 - [Zeal documentation browser](https://zealdocs.org/) — in development since early 2013 by [@jkozera](https://github.com/zealdocs/zeal/graphs/contributors)
 
 
