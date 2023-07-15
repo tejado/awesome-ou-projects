@@ -4,7 +4,6 @@ A collection of awesome Open Univerity projects by students for students (but no
 Feel free to participate over pull requests.
 
 ## Study Tools
-- [oudashboard](https://gitlab.com/jkozera/oudashboard) OU TMA/iCMA calendar
 - [ou-embed-php](https://github.com/IET-OU/ou-embed-php) Wrapper round oEmbed-powered 'simexis/embed' library, with some OU-specific goodness
 - [OUXMLConverter](https://github.com/chaotic-kingdoms/OUXMLConverter) Standalone script to process courses in OUXML (Open University XML) format
 
